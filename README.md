@@ -1,29 +1,4 @@
-Here is the completed text:
-
 # BasicPythonCV
-
-___________
-\       _____/
-  \     /      \
-   \   /        \
-    \_/          \
-   __/          __\
-  /            /    \
- /            /      \
-|   OPENCV    |      |
- _|         _|      |
-| |       | |       |
-| |  EYES  | |  EYES  |
-| |       | |       |
-|_|_____ |_|
-        ^     ^
-        |     |
-        |  VISION|
-        |_     _|
-       /         \
-      /           \
-     /             \
-    /_____________/
 
 ## Introduction
 
@@ -75,7 +50,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project, created and maintained by Kuldeep, provides a collection of Python scripts and tools for computer vision tasks. You can use and modify these codes under the provided permissions.
 
 ## Contact
 

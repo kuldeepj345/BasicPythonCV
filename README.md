@@ -61,16 +61,38 @@ If you have any questions or need help with this project, please contact Kuldeep
 ## Projects
 
 1.Face Detection with OpenCV – Demonstrate how to detect faces in real-time using a webcam.
+
+
 2.Edge Detection – Show how to apply edge detection filters (e.g., Canny edge detection).
+
+
 3.Object Tracking – Implement basic object tracking and display results.
+
+
 4.Color Detection – Detect and highlight a specific color in real-time video.
+
+
 5.Motion Detection – Show how to detect movement in a video feed.
+
+
 6.Face Recognition – Implement a basic face recognition system.
+
+
 7.Blurred Background Effect – Apply a blur effect to the background while keeping the foreground sharp.
+
+
 8.Grayscale Conversion – Convert a video feed to grayscale.
+
+
 9.Image Thresholding – Apply binary thresholding to an image.
+
+
 10.Image Resizing – Demonstrate how to resize images dynamically.
+
+
 11.Contour Detection – Detect and draw contours on objects in an image.
+
+
 12.Histogram Equalization – Enhance image contrast using histogram equalization.
 13.Real-time Augmented Reality – Add simple AR effects to a video feed.
 14.Motion Blur Effect – Apply a motion blur effect to simulate fast movement.
